@@ -12,7 +12,8 @@ Information Systems student at UFCIRJ, based in Nova Friburgo, Brazil. I write J
 
 - chonOS, the chon-group's Linux image for TV boxes: I wrote the image build and first-boot Wi-Fi setup scripts (private repository).
 - [ChonBots](https://github.com/chon-group/ChonBots): examples for the 9-in-1 and HW262 Arduino shields.
-- [WeGIA](https://github.com/LabRedesCefetRJ/WeGIA): fixes for reported security vulnerabilities, credit card payments through Pagar.me ([#1036](https://github.com/LabRedesCefetRJ/WeGIA/pull/1036)) and an SMTP email system that also sends receipts by email.
+- [WeGIA](https://github.com/LabRedesCefetRJ/WeGIA), free PHP software for charitable institutions: fixes for SQL injection and XSS, credit card payments through Pagar.me with single and recurring donations ([#1036](https://github.com/LabRedesCefetRJ/WeGIA/pull/1036)), an SMTP email module and PDF receipts. Done during my technical-course internship, March to September 2025.
+- UFCIRJ extension project: assistant instructor in a one-day minicourse on cognitive agents and the Internet of Things for teachers (October 2026), where I taught installing chonOS on TV boxes and Raspberry Pi.
 
 ## Contact
 
@@ -33,7 +34,8 @@ Estudante de Sistemas de Informação na UFCIRJ, em Nova Friburgo. Escrevo backe
 
 - chonOS, a imagem Linux do chon-group para TV boxes: escrevi os scripts de build da imagem e de configuração do Wi-Fi no primeiro boot (repositório privado).
 - [ChonBots](https://github.com/chon-group/ChonBots): exemplos para as shields Arduino 9-in-1 e HW262.
-- [WeGIA](https://github.com/LabRedesCefetRJ/WeGIA): correções de vulnerabilidades reportadas, pagamento por cartão de crédito com o Pagar.me ([#1036](https://github.com/LabRedesCefetRJ/WeGIA/pull/1036)) e um sistema de envio de e-mails por SMTP que também manda recibos por e-mail.
+- [WeGIA](https://github.com/LabRedesCefetRJ/WeGIA), software livre em PHP para instituições assistenciais: correções de SQL injection e XSS, pagamento por cartão de crédito com Pagar.me em doação única e mensal ([#1036](https://github.com/LabRedesCefetRJ/WeGIA/pull/1036)), módulo de e-mail por SMTP e recibos em PDF. Feito durante o estágio do curso técnico, de março a setembro de 2025.
+- Projeto de extensão da UFCIRJ: auxiliar de instrução num minicurso de um dia sobre agentes cognitivos e Internet das Coisas para professores (outubro de 2026), onde ministrei a instalação do chonOS em TV box e Raspberry Pi.
 
 ## Contato
 
